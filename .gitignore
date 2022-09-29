@@ -4,5 +4,14 @@
 /config/config.local.ts
 /src/.umi
 /src/.umi-production
-/src/.umi-test
+/.umi
+/.umi-production
 /dist
+/.mfsu
+.env
+.idea
+.output
+.vercel
+
+# API directory is built by Umi
+/api
